@@ -2,6 +2,7 @@
     "html": [
         "README.md",
         "fork.html",
+        "geometron.js",
         "index-board1.txt",
         "index.html",
         "mixtape.html",
