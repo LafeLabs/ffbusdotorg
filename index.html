@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+   <meta charset = "utf-8">
+   <!--destroy silico-->
+   <!--Stop Google:-->
+   <META NAME="robots" CONTENT="noindex,nofollow">
+   <title>TRASH MAGIC NETWORK</title>    
+   <script src = "trashmagic.js"></script>
+   <link rel="stylesheet" href="trashmagic.css">
+   <script src = "https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>    
+<div id = "mainscroll">
+
+    <div id = "qrcode"></div>
+    
+    <h1 id = "pagename"></h1>
+    
+    <h1>TRASH MAGIC PORTAL</h1>
+
+<A href = "books/">BOOKS</A>
+<A href = "music/">MUSIC</A>
+<A href = "trashmagic/">TRASH MAGIC</A>
+<A href = "geometron/">GEOMETRON</A>
+<A href = "bus/">FLATIRON FLYER BOULDER/DENVER BUS</A>
+<A href = "https://github.com/LafeLabs/ffbusdotorg">REPLICATOR</A>
+<A href = "dirtwizard/">DIRT WIZARD</A>
+
+</div>
+<script>
+
+pagename = window.location.href.split("://")[1];
+pagename = pagename.replace(/index.html/g, ""); 
+
+document.getElementById("pagename").innerHTML = pagename;
+
+titles = document.getElementsByTagName("H1");
+for(var index = 0;index < titles.length;index++){
+    rainbowstring(titles[index]);    
+}
+
+
+rainbow(document.getElementsByTagName("A"));
+//googleyeyes(16);
+
+codesquaresize = 170;
+marginsize = 40;
+fontsize = 12;
+//globalurl = "http://www.trashrobot.org/qrcode.html";
+globalurl = window.location.href;
+qrcode = new QRCode(document.getElementById("qrcode"), {
+	text: globalurl,
+	width: codesquaresize,
+	height: codesquaresize,
+	colorDark : "#000000",
+	colorLight : "#ffffff",
+	correctLevel : QRCode.CorrectLevel.H
+});
+
+    
+</script>
+<style>
+#qrcode img{
+    border:solid;
+    border-color:white;
+    border-width:10px;
+}
+
+</style>
+</body>
+</html>
+
+
