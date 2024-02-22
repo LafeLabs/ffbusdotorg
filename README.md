@@ -1,3 +1,6 @@
+# [WWW.FFBUS.ORG](https://www.ffbus.org/)
+
+
 # [Trash Magic Squares](https://github.com/lafelabs/squares)
 
 ![](https://raw.githubusercontent.com/LafeLabs/squares/main/trashmagic/github-qrcode.png)

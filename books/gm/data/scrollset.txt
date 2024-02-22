@@ -1,0 +1,6 @@
+{
+    "server": "https://colfax.site/geometron-magic/",
+    "scrolls": [
+        "home"
+    ]
+}
