@@ -15,4 +15,4 @@ ELEMENTS FOR REPLICATION:
 - TAROT
 - PERSONAL HOME PAGES
 - WEB ZINES
-- [3D PRINTED ICON ICON-FFBUS.STL]()
+- [3D PRINTED ICON ICON-FFBUS.STL](https://raw.githubusercontent.com/LafeLabs/ffbusdotorg/main/trashmagic/icon-ffbus.stl)
