@@ -25,6 +25,8 @@ ELEMENTS FOR REPLICATION:
 
 ![](https://raw.githubusercontent.com/LafeLabs/ffbusdotorg/main/trashmagic/space-square.png)
 
+![](https://raw.githubusercontent.com/LafeLabs/ffbusdotorg/main/trashmagic/flag.png)
+
 ![](https://raw.githubusercontent.com/LafeLabs/ffbusdotorg/main/trashmagic/dirt-square.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/ffbusdotorg/main/trashmagic/fire-square.png)
