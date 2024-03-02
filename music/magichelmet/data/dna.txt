@@ -17,7 +17,6 @@
     ],
     "skins": [
         "Blue_Jeans_v13.wsz",
-        "Carrie-Anne Moss.wsz",
         "DOSAmp.wsz",
         "Episode_II_Obi-Wan_Kenobi_3.wsz",
         "Evil_Dead_1_Skin.wsz",
@@ -42,7 +41,9 @@
         "text2php.txt"
     ],
     "songs": [
-        "elements_64kb.mp3",
-        "internationale.mp3"
+        "Megaton Leviathan - Magick Helmet - 01 The Final Form Of Nothing Is Final.mp3",
+        "Megaton Leviathan - Magick Helmet - 02 The Final Form Of Nothing Is Final ( A Slight Reprise).mp3",
+        "Megaton Leviathan - Magick Helmet - 03 The Belly Of The Beast.mp3",
+        "Megaton Leviathan - Magick Helmet - 04 Helios Creeds Magick Helmet.mp3"
     ]
 }
